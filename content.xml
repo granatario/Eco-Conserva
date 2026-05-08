@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260508202237VTVCL3</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026050820223719IDNQ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Eco-Conserva. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Digitalización y sostenibilidad en la producción alimentaria</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Marcos Muñoz</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Eco-Conserva es una situación de aprendizaje para 1.º de CFGM de Elaboración de Productos Alimenticios que integra sostenibilidad y digitalización en la fabricación de conservas vegetales. Los estudiantes registran datos reales de consumos y residuos usando herramientas digitales para analizar la eficiencia de su producción.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778264551798</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mox8ssvz-n81mrm8eu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación del proyecto.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox8ssvz-n81mrm8eu</odePageId>
+      <odeBlockId>block-1778188723329-q8qc9c221</odeBlockId>
+      <blockName>¿Sabías que una conserva vegetal no solo se mide por su sabor, su seguridad alimentaria o su aspecto final?</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox8ssvz-n81mrm8eu</odePageId>
+          <odeBlockId>block-1778188723329-q8qc9c221</odeBlockId>
+          <odeIdeviceId>idevice-1778188723320-15xhd9zdy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>También podemos medir cuánta agua hemos utilizado, cuánta materia prima hemos desperdiciado y qué decisiones podrían hacer que el proceso sea más eficiente.</p>
+<p>En esta situación de aprendizaje vamos a convertir el taller de industrias alimentarias en un pequeño laboratorio de mejora sostenible. Elaboraremos conservas vegetales, registraremos datos reales durante el proceso y usaremos herramientas digitales para analizarlos y comunicar propuestas de mejora.</p>
+<p>Este proyecto no trata de hacer una práctica de conservas “al uso”, sino de que el alumnado mida consumos, mermas y residuos para pasar de la intuición a la evidencia: saber cuánto se consume, cuánto se desperdicia y cómo podría mejorarse el proceso.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778188723320-15xhd9zdy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>También podemos medir cuánta agua hemos utilizado, cuánta materia prima hemos desperdiciado y qué decisiones podrían hacer que el proceso sea más eficiente.</p>\n<p>En esta situación de aprendizaje vamos a convertir el taller de industrias alimentarias en un pequeño laboratorio de mejora sostenible. Elaboraremos conservas vegetales, registraremos datos reales durante el proceso y usaremos herramientas digitales para analizarlos y comunicar propuestas de mejora.</p>\n<p>Este proyecto no trata de hacer una práctica de conservas “al uso”, sino de que el alumnado mida consumos, mermas y residuos para pasar de la intuición a la evidencia: saber cuánto se consume, cuánto se desperdicia y cómo podría mejorarse el proceso.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox8sswm-5lxmzeo2r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Cómo podemos elaborar conservas vegetales de calidad reduciendo el consumo de agua, las mermas y los residuos mediante el uso responsable de herramientas digitales?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo podemos elaborar conservas vegetales de calidad reduciendo el consumo de agua, las mermas y los residuos mediante el uso responsable de herramientas digitales?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo podemos elaborar conservas vegetales de calidad reduciendo el consumo de agua, las mermas y los residuos mediante el uso responsable de herramientas digitales?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox8sswm-5lxmzeo2r</odePageId>
+      <odeBlockId>block-1778189186778-3qj1bn9a1</odeBlockId>
+      <blockName>Reto Eco-Conserva</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox8sswm-5lxmzeo2r</odePageId>
+          <odeBlockId>block-1778189186778-3qj1bn9a1</odeBlockId>
+          <odeIdeviceId>idevice-1778189186771-f8plvnmio</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante el tiempo que tratemos este proyecto trabajaréis en equipos para:</p>
+<ul>
+<li>Seleccionar y clasificar materia prima vegetal.</li>
+<li>Preparar y limpiar la materia prima aplicando criterios técnicos y de sostenibilidad.</li>
+<li>Registrar digitalmente consumos, tiempos, incidencias, residuos y mermas.</li>
+<li>Analizar los datos obtenidos.</li>
+<li>Diseñar una propuesta de mejora sostenible.</li>
+<li>Presentarla en una infografía digital interactiva.</li>
+<li>La temporalización general del proyecto ya aparece organizada en la Tarea 7.1 como un proceso de 4 semanas y 18-20 horas, con elaboración de conservas, registro de consumos y mermas, análisis de huella hídrica/desperdicios y diseño de una infografía digital interactiva.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778189186771-f8plvnmio","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante el tiempo que tratemos este proyecto trabajaréis en equipos para:</p>\n<ul>\n<li>Seleccionar y clasificar materia prima vegetal.</li>\n<li>Preparar y limpiar la materia prima aplicando criterios técnicos y de sostenibilidad.</li>\n<li>Registrar digitalmente consumos, tiempos, incidencias, residuos y mermas.</li>\n<li>Analizar los datos obtenidos.</li>\n<li>Diseñar una propuesta de mejora sostenible.</li>\n<li>Presentarla en una infografía digital interactiva.</li>\n<li>La temporalización general del proyecto ya aparece organizada en la Tarea 7.1 como un proceso de 4 semanas y 18-20 horas, con elaboración de conservas, registro de consumos y mermas, análisis de huella hídrica/desperdicios y diseño de una infografía digital interactiva.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox8sswu-84sitboqz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué vamos a aprender?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox8sswu-84sitboqz</odePageId>
+      <odeBlockId>block-1778190084978-jddzzo7hy</odeBlockId>
+      <blockName>Al finalizar el proyecto serás capaz de...</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox8sswu-84sitboqz</odePageId>
+          <odeBlockId>block-1778190084978-jddzzo7hy</odeBlockId>
+          <odeIdeviceId>idevice-1778190084973-s2sun4txt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Seleccionar y clasificar materias primas vegetales según criterios de calidad.</li>
+<li>Utilizar equipos básicos de selección, limpieza y acondicionado con seguridad.</li>
+<li>Aplicar técnicas de limpieza y acondicionado eficientes.</li>
+<li>Registrar datos reales del taller mediante formularios y hojas de cálculo.</li>
+<li>Interpretar datos de consumo de agua, mermas y residuos.</li>
+<li>Proponer medidas de mejora sostenibles y viables.</li>
+<li>Comunicar resultados mediante una infografía digital.</li>
+<li>Trabajar de forma colaborativa respetando la privacidad, la seguridad digital y los derechos de autor.</li>
+<li>Esta propuesta tiene en cuenta que el grupo puede presentar niveles digitales muy diferentes.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778190084973-s2sun4txt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Seleccionar y clasificar materias primas vegetales según criterios de calidad.</li>\n<li>Utilizar equipos básicos de selección, limpieza y acondicionado con seguridad.</li>\n<li>Aplicar técnicas de limpieza y acondicionado eficientes.</li>\n<li>Registrar datos reales del taller mediante formularios y hojas de cálculo.</li>\n<li>Interpretar datos de consumo de agua, mermas y residuos.</li>\n<li>Proponer medidas de mejora sostenibles y viables.</li>\n<li>Comunicar resultados mediante una infografía digital.</li>\n<li>Trabajar de forma colaborativa respetando la privacidad, la seguridad digital y los derechos de autor.</li>\n<li>Esta propuesta tiene en cuenta que el grupo puede presentar niveles digitales muy diferentes.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox8ssx1-kd6r7vjt4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Identidad digital y seguridad</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Identidad digital y seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestra identidad digital y seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Identidad digital y seguridad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox8ssx1-kd6r7vjt4</odePageId>
+      <odeBlockId>block-1778254389479-ky4erafdq</odeBlockId>
+      <blockName>Derechos digitales y protección de datos-Infografía.</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox8ssx1-kd6r7vjt4</odePageId>
+          <odeBlockId>block-1778254389479-ky4erafdq</odeBlockId>
+          <odeIdeviceId>idevice-1778254389473-nhjab7uls</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En primer lugar debemos conocer estos derechos digitales y protección de datos, porque durante este proyecto vais a generar contenido digital (fotos en el taller, vídeos del proceso, perfiles en redes simuladas).</p>
+<p>Debeis tener en cuenta los siuguiente:</p>
+<p><strong>Consentimiento</strong>: No podéis grabar ni publicar imágenes de ningún compañero/a o profesor/a sin su consentimiento expreso. Usaremos un modelo de autorización que os facilitaré.<br /><strong>Huella Digita</strong>l: Todo lo que subimos a la red deja rastro. Pensad: ¿qué imagen profesional quiero proyectar? Aseguraos de que vuestro contenido refleja a un/a técnico/a en industrias alimentarias riguroso, limpio y que cumple las normas de higiene.<br /><strong>Derechos de autor</strong>: Si usáis música para vuestros vídeos o imágenes de internet, deben tener licencias libres (Creative Commons) o ser de dominio público. ¡Nosotros también licenciaremos nuestro trabajo para protegerlo!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778254389473-nhjab7uls","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En primer lugar debemos conocer estos derechos digitales y protección de datos, porque durante este proyecto vais a generar contenido digital (fotos en el taller, vídeos del proceso, perfiles en redes simuladas).</p>\n<p>Debeis tener en cuenta los siuguiente:</p>\n<p><strong>Consentimiento</strong>: No podéis grabar ni publicar imágenes de ningún compañero/a o profesor/a sin su consentimiento expreso. Usaremos un modelo de autorización que os facilitaré.<br /><strong>Huella Digita</strong>l: Todo lo que subimos a la red deja rastro. Pensad: ¿qué imagen profesional quiero proyectar? Aseguraos de que vuestro contenido refleja a un/a técnico/a en industrias alimentarias riguroso, limpio y que cumple las normas de higiene.<br /><strong>Derechos de autor</strong>: Si usáis música para vuestros vídeos o imágenes de internet, deben tener licencias libres (Creative Commons) o ser de dominio público. ¡Nosotros también licenciaremos nuestro trabajo para protegerlo!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox8ssx1-kd6r7vjt4</odePageId>
+      <odeBlockId>block-1778254840427-wciacsjs1</odeBlockId>
+      <blockName>Infografía</blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox8ssx1-kd6r7vjt4</odePageId>
+          <odeBlockId>block-1778254840427-wciacsjs1</odeBlockId>
+          <odeIdeviceId>idevice-1778254840421-2gmiu211d</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778254840421-2gmiu211d" title="" href="{{context_path}}/content/resources/Infografía Guía privacidad.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Infografía Guía privacidad.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778254840421-2gmiu211d","img_0":{"img":"{{context_path}}/content/resources/Infografía Guía privacidad.jpg","thumbnail":"{{context_path}}/content/resources/Infografía Guía privacidad.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox8ssxc-iekijcuoy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final.</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro destino...</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Producto final.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox8ssxc-iekijcuoy</odePageId>
+      <odeBlockId>block-1778255097107-8ky330j7j</odeBlockId>
+      <blockName>Nuestro destino.</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox8ssxc-iekijcuoy</odePageId>
+          <odeBlockId>block-1778255097107-8ky330j7j</odeBlockId>
+          <odeIdeviceId>idevice-1778255097101-vfvsgz38j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Al finalizar este proyecto, cada equipo deberá entregar y presentar un Portfolio Digital del Producto, que incluirá:<br />1. Ficha técnica interactiva del producto: Detallando ingredientes, diagrama de flujo del proceso de elaboración (Puntos Críticos de Control), envasado y etiquetado normativo.</p>
+<p>2. Videoblog (Vlog) de elaboración: Un vídeo de máximo 3 minutos, editado por vosotros, mostrando el paso a paso en la planta de elaboración, demostrando las Buenas Prácticas de Manufactura (BPM) e higiene.</p>
+<p>3. Campaña de difusión: Una propuesta de tres publicaciones para redes sociales promocionando la conserva, usando imágenes propias y textos atractivos que destaquen el valor nutricional y la sostenibilidad.</p>
+<p>Utilizaremos herramientas como <a href="https://docs.google.com/document/create?hl=es" title="">Google Docs</a> y <a href="https://docs.google.com/spreadsheets/create?hl=es" title="">Google Sheets.</a> He elegido estas herramientas por las siguientes razones, que vereis que responden a la realidad de nuestra aula.</p>
+<p>El grupo es bastante particular, conviven alumnos de 16 años que siguen con su formación y personas adultas que vuelven a las aulas después de mucho tiempo alejadas de ellas. <br />Google Docs y Google Sheets, y os explico por qué me parecen la opción más sensata para esta realidad: las fuimos introduciendo desde el principio de curso, poco a poco. Eso ha evitado esa frustración inicial que tanto daño hace, especialmente a quienes vienen de años sin tocar un ordenador en un contexto académico.<br />Al estar en la nube, da igual si empiezan la tarea en el centro o la retoman desde casa: todo sigue exactamente donde lo dejaron. Sin pendientes de "es que no tenía el archivo", sin excusas tecnológicas. A esto se le une que pueden utilizar los carros de ordenadores portátiles del centro,  y el trabajo sigue estando disponible si precisan conectarse desde un ordenador público como el de una biblioteca.<br />Pero lo que más valoro es la colaboración asíncrona. Para las personas adultas del grupo, que muchas veces tienen trabajos, familias y horarios imposibles, poder trabajar en equipo sin coincidir en el mismo momento ha sido un cambio real.<br />Y luego está lo más importante: son herramientas de verdad, del mundo real. No las aprenden para un examen, las aprenden porque las van a necesitar. En casi cualquier empresa del sector las van a encontrar, o algo muy parecido. Y una vez que entiendes la lógica de este tipo de software, adaptarte a cualquier otra alternativa es mucho más fácil.<br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778255097101-vfvsgz38j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Al finalizar este proyecto, cada equipo deberá entregar y presentar un Portfolio Digital del Producto, que incluirá:<br />1. Ficha técnica interactiva del producto: Detallando ingredientes, diagrama de flujo del proceso de elaboración (Puntos Críticos de Control), envasado y etiquetado normativo.</p>\n<p>2. Videoblog (Vlog) de elaboración: Un vídeo de máximo 3 minutos, editado por vosotros, mostrando el paso a paso en la planta de elaboración, demostrando las Buenas Prácticas de Manufactura (BPM) e higiene.</p>\n<p>3. Campaña de difusión: Una propuesta de tres publicaciones para redes sociales promocionando la conserva, usando imágenes propias y textos atractivos que destaquen el valor nutricional y la sostenibilidad.</p>\n<p>Utilizaremos herramientas como <a href=\"https://docs.google.com/document/create?hl=es\" title=\"\">Google Docs</a> y <a href=\"https://docs.google.com/spreadsheets/create?hl=es\" title=\"\">Google Sheets.</a> He elegido estas herramientas por las siguientes razones, que vereis que responden a la realidad de nuestra aula.</p>\n<p>El grupo es bastante particular, conviven alumnos de 16 años que siguen con su formación y personas adultas que vuelven a las aulas después de mucho tiempo alejadas de ellas. <br />Google Docs y Google Sheets, y os explico por qué me parecen la opción más sensata para esta realidad: las fuimos introduciendo desde el principio de curso, poco a poco. Eso ha evitado esa frustración inicial que tanto daño hace, especialmente a quienes vienen de años sin tocar un ordenador en un contexto académico.<br />Al estar en la nube, da igual si empiezan la tarea en el centro o la retoman desde casa: todo sigue exactamente donde lo dejaron. Sin pendientes de \"es que no tenía el archivo\", sin excusas tecnológicas. A esto se le une que pueden utilizar los carros de ordenadores portátiles del centro,  y el trabajo sigue estando disponible si precisan conectarse desde un ordenador público como el de una biblioteca.<br />Pero lo que más valoro es la colaboración asíncrona. Para las personas adultas del grupo, que muchas veces tienen trabajos, familias y horarios imposibles, poder trabajar en equipo sin coincidir en el mismo momento ha sido un cambio real.<br />Y luego está lo más importante: son herramientas de verdad, del mundo real. No las aprenden para un examen, las aprenden porque las van a necesitar. En casi cualquier empresa del sector las van a encontrar, o algo muy parecido. Y una vez que entiendes la lógica de este tipo de software, adaptarte a cualquier otra alternativa es mucho más fácil.<br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox8ssxj-8otfscpio</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curando el contenido.</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curando el contenido.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestra caja de herramientas.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Curando el contenido.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox8ssxj-8otfscpio</odePageId>
+      <odeBlockId>block-1778255690623-2awn3bs5m</odeBlockId>
+      <blockName>Nuestra caja de herramientas.</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox8ssxj-8otfscpio</odePageId>
+          <odeBlockId>block-1778255690623-2awn3bs5m</odeBlockId>
+          <odeIdeviceId>idevice-1778255690617-k1uagya1t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-carousel">
+<h2>Para no perdernos en el océano de internet...</h2>
+<p>...he preparado y organizado los recursos que vais a necesitar. Además, ¡vosotros también seréis curadores de contenido!</p>
+<h2>Para consultar (el Rincón del Profe)</h2>
+<p style="font-size: 19.2px;"> Aquí tenéis un Symbaloo donde he clasificado normativas sanitarias, tablas de composición de alimentos, guías de etiquetado y bancos de imágenes libres de derechos.</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAdqM5T8AA41-5EWOxw==" title="Symbaloo del Proyecto" style="font-size: 19.2px; color: #0d6efd;">Nuestro Symbaloo</a><span style="font-size: 19.2px;"> (Nota: Todo el contenido externo enlazado aquí tiene licencia CC o es información pública BOE/BOJA).</span></p>
+<h2><span style="color: #212529; font-size: 19.2px; background-color: #ffffff;">Para construir juntos (El Rincón del Alumnado)</span><span style="font-size: 19.2px;"></span></h2>
+<p style="font-size: 19.2px;">Este Padlet es nuestra "Caja de las soluciones". Aquí cada equipo deberá subir al menos dos enlaces útiles que haya descubierto (una receta inspiradora, un tutorial de edición de vídeo, un artículo sobre conservación...) y comentar las aportaciones de otros equipos. ¡Colaboración al poder!</p>
+<p style="font-size: 19.2px;"><a href="https://padlet.com/granatario/la-caja-de-las-soluciones-yi1fea5ltfkvaj6m" title="Nuestro Padlet" style="color: #0d6efd;"> Nuestro Padlet</a></p>
+<p><br /></p>
+</div>
+<p><br /><br /></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778255690617-k1uagya1t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-carousel\">\n<h2>Para no perdernos en el océano de internet...</h2>\n<p>...he preparado y organizado los recursos que vais a necesitar. Además, ¡vosotros también seréis curadores de contenido!</p>\n<h2>Para consultar (el Rincón del Profe)</h2>\n<p style=\"font-size: 19.2px;\"> Aquí tenéis un Symbaloo donde he clasificado normativas sanitarias, tablas de composición de alimentos, guías de etiquetado y bancos de imágenes libres de derechos.</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAdqM5T8AA41-5EWOxw==\" title=\"Symbaloo del Proyecto\" style=\"font-size: 19.2px; color: #0d6efd;\">Nuestro Symbaloo</a><span style=\"font-size: 19.2px;\"> (Nota: Todo el contenido externo enlazado aquí tiene licencia CC o es información pública BOE/BOJA).</span></p>\n<h2><span style=\"color: #212529; font-size: 19.2px; background-color: #ffffff;\">Para construir juntos (El Rincón del Alumnado)</span><span style=\"font-size: 19.2px;\"></span></h2>\n<p style=\"font-size: 19.2px;\">Este Padlet es nuestra \"Caja de las soluciones\". Aquí cada equipo deberá subir al menos dos enlaces útiles que haya descubierto (una receta inspiradora, un tutorial de edición de vídeo, un artículo sobre conservación...) y comentar las aportaciones de otros equipos. ¡Colaboración al poder!</p>\n<p style=\"font-size: 19.2px;\"><a href=\"https://padlet.com/granatario/la-caja-de-las-soluciones-yi1fea5ltfkvaj6m\" title=\"Nuestro Padlet\" style=\"color: #0d6efd;\"> Nuestro Padlet</a></p>\n<p><br /></p>\n</div>\n<p><br /><br /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox8ssxs-cilcmdhlv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Hoja de ruta</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Hoja de ruta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Hoja de ruta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox8ssxs-cilcmdhlv</odePageId>
+      <odeBlockId>block-1778257796421-9od7ekugg</odeBlockId>
+      <blockName>Cronograma</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox8ssxs-cilcmdhlv</odePageId>
+          <odeBlockId>block-1778257796421-9od7ekugg</odeBlockId>
+          <odeIdeviceId>idevice-1778257796413-7lrfi3cb7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-timeline">
+<h2>Semana 1</h2>
+<h3>Lluvia de ideas y diseño</h3>
+<p>Investigación de mercado (evitando sesgos), selección de la materia prima, esquema de la ficha técnica.</p>
+<h2>Semana 2</h2>
+<h3>¡A la planta!</h3>
+<p>Elaboración del producto en el taller. Aplicación de APPCC. Grabación de recursos en vídeo y fotos (¡respetando la privacidad!).</p>
+<h2>Semana 3</h2>
+<h3>Postproducción y marketing</h3>
+<h4>Edición del video, diseño de la etiqueta digital y creación de los posts para redes sociales.</h4>
+<h2>Semana 4</h2>
+<h3>Lanzamiento y evaluación</h3>
+<h4>Presentación del Portfolio Digital en el aula. Coevaluación y autoevaluación.</h4>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778257796413-7lrfi3cb7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-timeline\">\n<h2>Semana 1</h2>\n<h3>Lluvia de ideas y diseño</h3>\n<p>Investigación de mercado (evitando sesgos), selección de la materia prima, esquema de la ficha técnica.</p>\n<h2>Semana 2</h2>\n<h3>¡A la planta!</h3>\n<p>Elaboración del producto en el taller. Aplicación de APPCC. Grabación de recursos en vídeo y fotos (¡respetando la privacidad!).</p>\n<h2>Semana 3</h2>\n<h3>Postproducción y marketing</h3>\n<h4>Edición del video, diseño de la etiqueta digital y creación de los posts para redes sociales.</h4>\n<h2>Semana 4</h2>\n<h3>Lanzamiento y evaluación</h3>\n<h4>Presentación del Portfolio Digital en el aula. Coevaluación y autoevaluación.</h4>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox8ssxs-cilcmdhlv</odePageId>
+      <odeBlockId>block-1778258785915-ihwiaywjh</odeBlockId>
+      <blockName>Mapa mental</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox8ssxs-cilcmdhlv</odePageId>
+          <odeBlockId>block-1778258785915-ihwiaywjh</odeBlockId>
+          <odeIdeviceId>idevice-1778258785907-9ktj4q36j</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778258785907-9ktj4q36j" title="" href="{{context_path}}/content/resources/7.1 Mapa mental.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/7.1 Mapa mental.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778258785907-9ktj4q36j","img_0":{"img":"{{context_path}}/content/resources/7.1 Mapa mental.jpg","thumbnail":"{{context_path}}/content/resources/7.1 Mapa mental.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox8ssxz-uqsywe9r5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox8ssxz-uqsywe9r5</odePageId>
+      <odeBlockId>block-1778258863372-e6tud5b2g</odeBlockId>
+      <blockName>¿Cómo vamos a ser evaluados?</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox8ssxz-uqsywe9r5</odePageId>
+          <odeBlockId>block-1778258863372-e6tud5b2g</odeBlockId>
+          <odeIdeviceId>idevice-1778258863368-qo5x2f6g6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación será continua, transparente y participativa. No solo evalúo yo, ¡vosotros también!</p>
+<div class="exe-fx exe-tabs">
+<h2>Criterios de Evaluación (Qué miraremos):</h2>
+<ul>
+<li>Técnico: Aplicación correcta de los tratamientos de conservación y normativa de higiene (APPCC). Elaboración del diagrama de flujo.</li>
+<li>Digital: Uso adecuado de herramientas digitales para la creación del portfolio y edición de vídeo.<br />Ciudadanía Digital: Respeto por la autoría (licencias CC) y por la privacidad de los compañeros en los medios audiovisuales.</li>
+<li>Transversal: Trabajo en equipo y comunicación efectiva.</li>
+</ul>
+<h2>Instrumentos de evaluación (Con qué mediremos).</h2>
+<ul>
+<li>Rúbrica de evaluación del Portfolio Digital </li>
+<li><img src="{{context_path}}/content/resources/Rubrica.jpg" title="Rúbrica" width="1920" height="1357" alt="Rúbrica" /></li>
+<li>Lista de cotejo (Checklist) en la planta de elaboración</li>
+<li><img src="{{context_path}}/content/resources/lista cotejo.jpg" title="Lista de cotejo" width="660" height="437" alt="Lista de cotejo" /></li>
+</ul>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778258863368-qo5x2f6g6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación será continua, transparente y participativa. No solo evalúo yo, ¡vosotros también!</p>\n<div class=\"exe-fx exe-tabs\">\n<h2>Criterios de Evaluación (Qué miraremos):</h2>\n<ul>\n<li>Técnico: Aplicación correcta de los tratamientos de conservación y normativa de higiene (APPCC). Elaboración del diagrama de flujo.</li>\n<li>Digital: Uso adecuado de herramientas digitales para la creación del portfolio y edición de vídeo.<br />Ciudadanía Digital: Respeto por la autoría (licencias CC) y por la privacidad de los compañeros en los medios audiovisuales.</li>\n<li>Transversal: Trabajo en equipo y comunicación efectiva.</li>\n</ul>\n<h2>Instrumentos de evaluación (Con qué mediremos).</h2>\n<ul>\n<li>Rúbrica de evaluación del Portfolio Digital </li>\n<li><img src=\"{{context_path}}/content/resources/Rubrica.jpg\" title=\"Rúbrica\" width=\"1920\" height=\"1357\" alt=\"Rúbrica\" /></li>\n<li>Lista de cotejo (Checklist) en la planta de elaboración</li>\n<li><img src=\"{{context_path}}/content/resources/lista cotejo.jpg\" title=\"Lista de cotejo\" width=\"660\" height=\"437\" alt=\"Lista de cotejo\" /></li>\n</ul>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox8ssy4-jx2a33q41</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox8ssy4-jx2a33q41</odePageId>
+      <odeBlockId>block-1778262689894-pqprh7iex</odeBlockId>
+      <blockName>Relación de tareas con elementos curriculares.</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox8ssy4-jx2a33q41</odePageId>
+          <odeBlockId>block-1778262689894-pqprh7iex</odeBlockId>
+          <odeIdeviceId>idevice-1778262689889-h2iv845rp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-accordion">
+<h2>Criterios de evaluación</h2>
+<p>Se evalúa la identificación de peligros y puntos de control crítico (APPCC), el control de parámetros de conservación y el envasado/etiquetado según normativa vigente.</p>
+<h2>Competencia digital docente y del alumnado</h2>
+<ul>
+<li align="left">Búsqueda y gestión de información: trabajado mediante la curación en Padlet.</li>
+<li align="left">Comunicación y colaboración: creación del portfolio conjunto y uso de redes.</li>
+<li align="left">Creación de contenido digital: edición de vídeo y web.</li>
+<li align="left">Seguridad y ciudadanía: tratado con la gestión de permisos, huella digital y derechos de autor.</li>
+</ul>
+<h2>Aplicación DUA</h2>
+<p>Se ofrecen alternativas a la información visual/auditiva (vídeos y textos), el Padlet permite múltiples formas de participación (texto, audio, enlaces) y el producto final flexible permite al alumnado destacar en aquello que se le dé mejor (diseño, trabajo manual en planta, edición, redacción técnica).</p>
+<h2>Recomendaciones</h2>
+<p><span style="font-size: 14pt;">Es vital coordinar el uso de los móviles/tabletas en la planta de elaboración para que no interfieran con las normas de seguridad alimentaria e higiene (riesgo físico de contaminación cruzada).</span></p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778262689889-h2iv845rp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>Criterios de evaluación</h2>\n<p>Se evalúa la identificación de peligros y puntos de control crítico (APPCC), el control de parámetros de conservación y el envasado/etiquetado según normativa vigente.</p>\n<h2>Competencia digital docente y del alumnado</h2>\n<ul>\n<li align=\"left\">Búsqueda y gestión de información: trabajado mediante la curación en Padlet.</li>\n<li align=\"left\">Comunicación y colaboración: creación del portfolio conjunto y uso de redes.</li>\n<li align=\"left\">Creación de contenido digital: edición de vídeo y web.</li>\n<li align=\"left\">Seguridad y ciudadanía: tratado con la gestión de permisos, huella digital y derechos de autor.</li>\n</ul>\n<h2>Aplicación DUA</h2>\n<p>Se ofrecen alternativas a la información visual/auditiva (vídeos y textos), el Padlet permite múltiples formas de participación (texto, audio, enlaces) y el producto final flexible permite al alumnado destacar en aquello que se le dé mejor (diseño, trabajo manual en planta, edición, redacción técnica).</p>\n<h2>Recomendaciones</h2>\n<p><span style=\"font-size: 14pt;\">Es vital coordinar el uso de los móviles/tabletas en la planta de elaboración para que no interfieran con las normas de seguridad alimentaria e higiene (riesgo físico de contaminación cruzada).</span></p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox8ssy4-jx2a33q41</odePageId>
+      <odeBlockId>block-1778263817841-11abj9tj9</odeBlockId>
+      <blockName>Tareas-Criterios de evaluación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox8ssy4-jx2a33q41</odePageId>
+          <odeBlockId>block-1778263817841-11abj9tj9</odeBlockId>
+          <odeIdeviceId>idevice-1778263817838-8uncnkm6i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="300" height="150" src="{{context_path}}/content/resources/Asociamos tareas a Criterios de evaluación.pdf" type="application/pdf"></embed></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778263817838-8uncnkm6i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"300\" height=\"150\" src=\"{{context_path}}/content/resources/Asociamos tareas a Criterios de evaluación.pdf\" type=\"application/pdf\"></embed></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox8ssyc-iop89hluo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox8ssyc-iop89hluo</odePageId>
+      <odeBlockId>block-1778263123320-n5g4hr4t9</odeBlockId>
+      <blockName>Créditos.</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox8ssyc-iop89hluo</odePageId>
+          <odeBlockId>block-1778263123320-n5g4hr4t9</odeBlockId>
+          <odeIdeviceId>idevice-1778263123311-q7ucwzfg8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-paginated">
+<h2>Encabezado 2</h2>
+<p>Contenido</p>
+<h2>Autoría</h2>
+<p>Marcos Muñoz.</p>
+<p>Profesor de Enseñanza Secundaria. </p>
+<p>Familia: Industrias Alimentarias.</p>
+<p>Junta de Andalucía.</p>
+<h2>Descripción del recurso</h2>
+<p>Material educativo creado para el curso de acreditación de Competencia Digital Docente (Nivel B2).</p>
+<h2>Licencia de uso</h2>
+<p>Este recurso educativo abierto (REA) está sujeto a una licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).</p>
+<h2>Agradecimientos/Recursos de terceros</h2>
+<ul>
+<li title="">Herramienta de curación docente: <a href="https://www.symbaloo.com/" title="Symbaloo">Symbaloo</a>.</li>
+<li title="Padlet">Herramienta colaborativa: <a href="https://padlet.com/" title="Padlet">Padlet</a>.</li>
+</ul>
+</div>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778263123311-q7ucwzfg8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-paginated\">\n<h2>Encabezado 2</h2>\n<p>Contenido</p>\n<h2>Autoría</h2>\n<p>Marcos Muñoz.</p>\n<p>Profesor de Enseñanza Secundaria. </p>\n<p>Familia: Industrias Alimentarias.</p>\n<p>Junta de Andalucía.</p>\n<h2>Descripción del recurso</h2>\n<p>Material educativo creado para el curso de acreditación de Competencia Digital Docente (Nivel B2).</p>\n<h2>Licencia de uso</h2>\n<p>Este recurso educativo abierto (REA) está sujeto a una licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).</p>\n<h2>Agradecimientos/Recursos de terceros</h2>\n<ul>\n<li title=\"\">Herramienta de curación docente: <a href=\"https://www.symbaloo.com/\" title=\"Symbaloo\">Symbaloo</a>.</li>\n<li title=\"Padlet\">Herramienta colaborativa: <a href=\"https://padlet.com/\" title=\"Padlet\">Padlet</a>.</li>\n</ul>\n</div>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox8ssyc-iop89hluo</odePageId>
+      <odeBlockId>block-1778263980529-2brcfenfq</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox8ssyc-iop89hluo</odePageId>
+          <odeBlockId>block-1778263980529-2brcfenfq</odeBlockId>
+          <odeIdeviceId>idevice-1778263980527-v9gut46m9</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Eco-Conserva. </span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Eco-Conserva es una situación de aprendizaje para 1.º de CFGM de Elaboración de Productos Alimenticios que integra sostenibilidad y digitalización en la fabricación de conservas vegetales. Los estudiantes registran datos reales de consumos y residuos usando herramientas digitales para analizar la eficiencia de su producción.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Marcos Muñoz</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
